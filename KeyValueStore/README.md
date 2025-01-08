@@ -1,0 +1,1 @@
+The goal is to create an in-memory KV Cache backed by a scalable persistent data store (file system, blob storage, or some other abstraction).
