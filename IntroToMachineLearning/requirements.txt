@@ -1,5 +1,9 @@
-pandas
+ipython
 langchain
+langchain_community
 langchain-anthropic
 langchain-openai
+langgraph
 langsmith
+pandas
+tavily-python
