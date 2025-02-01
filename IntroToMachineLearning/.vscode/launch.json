@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Run quickstart.main",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "quickstart.main"
+        }
+    ]
+}

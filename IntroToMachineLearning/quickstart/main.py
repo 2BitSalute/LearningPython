@@ -1,6 +1,6 @@
 import os
 
-from simple_bot import graph
+from quickstart import graph
 
 def stream_graph_updates(user_input: str):
     # Dirty, dirty.
